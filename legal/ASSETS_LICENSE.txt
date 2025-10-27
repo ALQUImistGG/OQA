@@ -1,0 +1,17 @@
+# Visual and Audio Assets License
+
+All images, sounds, videos, animations, overlays, icons, fonts, and
+other creative assets within this repository are © 2025 ALQUImist (Jadson S.).
+
+These assets are **NOT covered by the Apache 2.0 License**.
+They are protected under **All Rights Reserved** terms.
+
+You may:
+- View or clone them for educational or non-commercial reference.
+
+You may NOT:
+- Redistribute, resell, or modify any asset in whole or in part.
+- Use these materials in commercial content, streams, or derivative products.
+
+For commercial use or licensing agreements:
+📧 contato@seudominio.com
